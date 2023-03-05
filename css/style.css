@@ -853,9 +853,9 @@ a:hover {
   color: #fff;
 }
 .navbar .navbar-button {
-  height: 58px;
-  line-height: 58px;
-  padding: 0 40px;
+ height: 45px;
+    line-height: 45px;
+    padding: 0px 18px;
   color: #0b0b0b;
   background: #feed01;
   font-size: 13px;
