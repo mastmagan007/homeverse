@@ -690,15 +690,17 @@ input::-moz-focus-inner,input::-moz-focus-outer{border:0;}
   .navbar .navbar-button span{display:none;}
   .navbar .languages{display:none;}
   .navbar .navbar-button{margin-left:0;}
-  .slider .slider-content{margin-bottom:30px;}
+  .slider .slider-content{margin-bottom:10px;}
   .slider .slider-content .controls{padding:0; width:100%;}
   .slider .slider-content .controls .button-prev{order:1; margin:0;}
   .slider .slider-content .controls .swiper-pagination{margin:0 auto; order:2;}
   .slider .slider-content .controls .button-next{order:3;}
-  .slider .slider-content .inner{padding-bottom:30px;}
+  .slider .slider-content .inner{padding-bottom:10px;}
   .slider .slider-content .inner h2{font-size:40px;}
   .slider .slider-content .inner p{margin-bottom:30px;}
   .slider .slider-main{height:400px; margin-bottom:15px;}
+	.slider .slider-content .controls .button-prev{width:80px; height:80px; line-height:80px;}
+	.slider .slider-content .controls .button-next{width:80px; height:80px; line-height:80px;}
   .icon-content{width:100%; margin:15px 0;}
   .icon-content small{margin-bottom:30px;}
   .project-slider .swiper-slide .project-box figcaption{width:100%; position:static;}
@@ -728,4 +730,136 @@ input::-moz-focus-inner,input::-moz-focus-outer{border:0;}
   .footer .scroll-top{right:auto; left:15px;}
   .footer .footer-bottom ul{float:left;}
   .footer .footer-bottom ul li{margin-left:0; margin-right:10px;}
+	.content-section {
+ 
+    padding: 30px 0;
+   
+}
+	.icon-content figure {
+ 
+    margin-bottom: 20px;
+}
+	.icon-content figure img {
+    height: 59px;
+}
+	.h3, h3 {
+    font-size: 1.5rem;
+}
+	.icon-content h3 {
+
+    margin-bottom: 20px;
+}
+	.icon-content small {
+    margin-bottom: 20px;
+}
+	.section-title h2 {
+ 
+    font-size: 26px;
+}
+	.section-title h6 {
+    font-size: 14px;
+}
+	.section-title {
+    margin-bottom: 16px;
+}
+	.side-content p {
+    margin-bottom: 16px;
+}
+	.side-content figure img {
+    height: 30px;
+}
+	.side-content h6 {
+  
+    margin-top: 10px;
+   
+}
+	.counter-box .odometer {
+    font-size: 44px;
+}
+	.project-slider .swiper-slide .project-box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding-bottom: 28px;
+    position: relative;
+}
+	.project-slider .swiper-pagination {
+
+    margin-top: 0px;
+}
+	.sector-box {
+  
+    padding: 20px 30px;
+
+}
+	.calculator {
+
+    margin-top: 30px;
+}
+	.calculator .form .form-group {
+    margin-bottom: 20px;
+}
+	.calculator .form .form-group p{
+  margin-bottom:12px;
+}
+	.calculator .form select {
+   
+    height: 38px;
+  
+    padding: 0px 20px;
+  
+}
+	.yes-no .switch {
+
+    height: 45px;
+
+}
+	.calculator .form .custom-checkbox {
+    height: 38px;
+    line-height: 38px;
+  
+    padding: 0 30px;
+  
+    font-size: 14px;
+}
+	
+	.calculator .form .info-box {
+
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+	.calculator .form .price-box span {
+    font-size: 34px;
+}
+	.calculator .form .price-box {
+  
+    padding: 20px 50px;
+  
+}
+	.logo-item img {
+    width: 70%;
+}
+	.logo-item {
+  
+    text-align: center;
+}
+	.footer form input[type=submit] {
+    height: 42px;
+    font-size: 12px;
+   
+}
+	.footer form input[type=email] {
+   
+    height: 46px;
+ 
+    padding: 20px;
+  
+    margin-bottom: 16px;
+}
+	.footer-bottom a {
+    font-size: 14px;
+    line-height: 23px;
+}
+	
 }
