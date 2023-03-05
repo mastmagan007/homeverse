@@ -222,7 +222,7 @@ a:hover{text-decoration:underline; color:#0b0b0b;}
 .navbar .site-menu ul li a:hover:after{width:100%; background:transparent; transition:all 0s ease;}
 .navbar .search{display:inline-block; color:#fff; font-size:24px; cursor:pointer;}
 .navbar .hamburger{display:inline-block; color:#fff;}
-.navbar .navbar-button{height:45px; line-height:45px; padding:0 18px; color:#0b0b0b; background:#feed01; font-size:13px; font-weight:600;}
+.navbar .navbar-button{height:40px; line-height:40px; padding:0 18px; color:#0b0b0b; background:#feed01; font-size:12px; font-weight:600;}
 .navbar .navbar-button i{font-size:20px; display:inline-block; transform:translateY(3px); margin-right:5px;}
 .navbar .navbar-button:hover{text-decoration:none;}
 /* SLIDER */
